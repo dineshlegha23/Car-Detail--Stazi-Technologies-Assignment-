@@ -1,3 +1,12 @@
+This site is live @ https://cars-rental-website.netlify.app/
+
+Note:- Only 6 cars are unique, these 6 cars are used multiple times.
+
+Pagination is there.
+Routing is there.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
